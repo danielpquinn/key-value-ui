@@ -1,5 +1,7 @@
 # Key value pairs UI
 
+<img width="600" alt="image" src="https://github.com/danielpquinn/key-value-ui/assets/300894/ecd53f2d-64b2-46a8-9457-a37f9a44e68e">
+
 A UI for editing key value pairs.
 
 Technologies used:
